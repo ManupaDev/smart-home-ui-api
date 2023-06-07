@@ -4,7 +4,8 @@
   "description": "An API architecture to interface with a event management company website.",
   "main": "app.js",
   "scripts": {
-    "start": "nodemon server.js"
+    "start": "node server.js",
+    "dev":"nodemon server.js"
   },
   "author": "manupadevsuite@gmail.com",
   "license": "ISC",
